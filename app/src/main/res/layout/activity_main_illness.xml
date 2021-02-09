@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#31335C"
+    android:orientation="vertical"
+    tools:context=".Main_illness">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/edit_spin"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="CATEGORY"
+        android:textColor="#000"
+        android:textSize="60sp"
+        android:textStyle="italic|bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="2dp"
+        android:background="#FFF"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/baby"
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_gravity="start"
+                android:background="#FFF"
+                android:onClick="baby"
+                android:src="@drawable/chhild" />
+
+            <ImageView
+                android:id="@+id/man"
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:background="#FFF"
+                android:onClick="men"
+                android:src="@drawable/maan" />
+
+            <ImageView
+                android:id="@+id/women"
+                android:layout_width="130dp"
+                android:layout_height="150dp"
+                android:layout_gravity="end"
+                android:background="#FFF"
+                android:onClick="women"
+                android:src="@drawable/woomen" />
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_child"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFF"
+            android:textStyle="bold"
+            android:text="Child" />
+
+        <RadioButton
+            android:id="@+id/rb_man"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFF"
+            android:textStyle="bold"
+            android:text="Men" />
+
+
+        <RadioButton
+            android:id="@+id/rb_women"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFF"
+            android:textStyle="bold"
+            android:text="Women" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="10dp"
+        android:background="#FFF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/choose_one_illness"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/ill"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/edit_spin" />
+
+    <Button
+        android:id="@+id/btn_select"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/ovel"
+        android:onClick="sub"
+        android:text="Select"
+        android:textStyle="bold"
+        android:textColor="#000" />
+
+</LinearLayout>

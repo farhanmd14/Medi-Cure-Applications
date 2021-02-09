@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.mymedicine.ui.profile.Profile"
+        android:label="@string/menu_home"
+        tools:layout="@layout/profile" />
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.mymedicine.ui.Main"
+        android:label="Top diseases"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.mymedicine.ui.history.History"
+        android:label="@string/history"
+        tools:layout="@layout/history" />
+
+    <fragment
+        android:id="@+id/nav_buy"
+        android:name="com.mymedicine.ui.medicine.Buy"
+        android:label="@string/buy_medicine"
+        tools:layout="@layout/buy_medicine" />
+
+    <fragment
+        android:id="@+id/contact_us"
+        android:name="com.mymedicine.Contact_us"
+        android:label="Contact_us"
+        tools:layout="@layout/fragment_contact_us" />
+
+</navigation>

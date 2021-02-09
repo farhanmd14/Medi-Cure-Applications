@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">Medi-Cure</string>
+    <string name="corona_details">Coronaviruses (CoV) are a large family of viruses that cause illness
+        ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome
+        (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) is a new
+        strain that has not been previously identified in humans.
+        Coronaviruses are zoonotic, meaning they are transmitted between animals and people.
+        Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV
+        from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not
+        yet infected humans.
+        Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing
+        difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome,
+        kidney failure and even death.
+        Standard recommendations to prevent infection spread include regular hand washing,
+        covering mouth and nose when coughing and sneezing, thoroughly cooking meat and eggs.
+        Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and
+        sneezing.</string>
+
+    <string name="tube_details">27 FEBRUARY 2020 - GENEVA In a Rapid Communication issued today,
+        the World Health Organization (WHO) is announcing a number of updates to its latest guidance on
+        tuberculosis (TB) preventive treatment. These changes are expected to enhance the scale-up of preventive
+        treatment worldwide in line with the vision of the WHO End TB Strategy and the UN High-Level Meeting in 2018.
+        The release of this Rapid Communication at this juncture is important to inform countries as many of them
+        are in the process of developing national TB strategic plans and related funding proposals for donors like
+        the Global Fund.
+        An estimated one-fourth of the world’s population is infected with the TB bacterium, of whom about 5-10% advance
+        to active TB disease in their lifetime. TB preventive treatment, when given to people at the highest risk
+        of progressing from TB infection to disease, remains a critical intervention to benefit individuals and
+        communities alike. Globally, preventive treatment of people at risk, particularly contacts of TB patients,
+        remains low. Unless this is stepped up rapidly, the global target of reaching at least 30 million people
+        with TB preventive treatment by 2022 will not be reached.
+        “TB preventive treatment is an important cornerstone of the End TB Strategy. Ensuring that everyone can
+        obtain the treatment they need, to prevent TB infection from developing into active TB disease,
+        will save lives and reduce suffering.” said Dr Tereza Kasaeva, Director of the WHO Global TB Programme.
+        “Along with the new guidelines, WHO will release other tools to strengthen uptake and implementation of
+        the latest recommendations. We request continued commitment and stakeholder support to rapidly scale up
+        access to preventive treatment for the millions in need.”</string>
+
+    <string name="res_info">A type of disease that affects the lungs and other parts of the respiratory system.
+        Respiratory diseases include asthma, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis,
+        pneumonia, and lung cancer. Also called lung disorder and pulmonary disease. Respiratory diseases, or
+        lung diseases, are pathological conditions affecting the organs and tissues that make gas exchange difficult
+        in air-breathing animals.
+        They include conditions of the respiratory tract including the trachea, bronchi, bronchioles, alveoli,
+        pleurae, pleural cavity, and the nerves and muscles of respiration.
+    Respiratory diseases range from mild and self-limiting, such as the common cold, to life-threatening diseases
+        such as bacterial pneumonia, pulmonary embolism, acute asthma and lung cancer.
+    The study of respiratory disease is known as pulmonology.
+    A doctor who specializes in respiratory disease is known as a pulmonologist, a chest medicine specialist,
+        a respiratory medicine specialist, a respirologist or a thoracic medicine specialist.
+    Respiratory diseases can be classified in many different ways, including by the organ or tissue involved,
+        by the type and pattern of associated signs and symptoms, or by the cause of the disease.</string>
+
+    <string name="diabetes">Diabetes is a chronic, metabolic disease characterized by elevated levels of blood
+        glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes,
+        kidneys, and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the
+        body becomes resistant to insulin or does not make enough insulin. In the past three decades the prevalence
+        of type 2 diabetes has risen dramatically in countries of all income levels. Type 1 diabetes, once known as
+        juvenile diabetes or insulin-dependent diabetes, is a chronic condition in which the pancreas produces
+        little or no insulin by itself. For people living with diabetes, access to affordable treatment,
+        including insulin, is critical to their survival. There is a globally agreed target to halt the rise
+        in diabetes and obesity by 2025. </string>
+
+    <string name="blood"> Blood pressure (BP) is the pressure of circulating blood on the walls of blood vessels. Most of this pressure is due to work done by the heart by pumping blood through the circulatory system. Used without further specification, "blood pressure" usually refers to the pressure in large arteries of the systemic circulation. Blood pressure is usually expressed in terms of the systolic pressure (maximum during one heartbeat) over diastolic pressure (minimum in between two heartbeats) and is measured in millimeters of mercury (mmHg), above the surrounding atmospheric pressure.
+Blood pressure is one of the vital signs, along with respiratory rate, heart rate, oxygen saturation, and body temperature. Normal resting blood pressure, in an adult is approximately 120 millimetres of mercury (16 kPa) systolic, and 80 millimetres of mercury (11 kPa) diastolic, abbreviated "120/80 mmHg". Globally, the average blood pressure, age standardized, has remained about the same since 1975 to the present, at approx. 127/79 mmHg in men and 122/77 mmHg in women, although these average data mask quite large divergent regional trends.[1]
+Traditionally, blood pressure was measured non-invasively using auscultation with a mercury-tube sphygmomanometer.[2] Auscultation is still generally considered to be the gold standard of accuracy for non-invasive blood pressure readings in clinic.[3] However, semi-automated methods have become common, largely due to concerns about potential mercury toxicity,[4] although cost, ease of use and applicability to ambulatory blood pressure or home blood pressure measurements have also influenced this trend.[5] Early automated alternatives to mercury-tube sphygmomanometers were often seriously inaccurate, but modern devices validated to international standards achieve an average difference between two standardized reading methods of 5 mm Hg or less and a standard deviation of less than 8 mm Hg.[5] Most of these semi-automated methods measure blood pressure using oscillometry.[6]
+Blood pressure is influenced by cardiac output, total peripheral resistance and arterial stiffness and varies depending on situation, emotional state, activity, and relative health/disease states. In the short term, blood pressure is regulated by baroreceptors which act via the brain to influence the nervous and the endocrine systems.  </string>
+
+
+    <string name="cold_illness">Fever</string>
+    <string name="cold_description">Fever, also known as pyrexia and febrile response, is defined as having a temperature above the normal range due to an increase in the body\'s temperature set point. Rarely a fever may trigger a febrile seizure. This is more common in young children.</string>
+    <string name="cold_medicine">Crocin Advance, Combiflam for child,  Ibuprofen, paracetamol</string>
+    <string name="cold_symptoms">Fever, Sweating, Muscle aches Dehydration.</string>
+    <string name="cold_cause">Increase in the body\'s temperature.</string>
+    <string name="cold_salt">Paracetamol / Acetaminophen 500mg + Caffeine 32mg + Phenylephrine 10mg</string>
+
+
+    <string name="cough_illness">Common Cold</string>
+    <string name="cough_description">Colds are caused by viruses in the upper respiratory tract. Many young children—especially those in child care—can get 6 to 8 colds per year. Symptoms of a cold (including runny nose, congestion, and cough) may last for up to ten days.
+Green mucus in the nose does not automatically mean that antibiotics are needed; common colds never need antibiotics. However, if a sinus infection is suspected, your doctor will carefully decide whether antibiotics are the best choice based on your child\'s symptoms and a physical exam.</string>
+    <string name="cough_medicine">Ambrodil, Asthakind, Benadryl</string>
+    <string name="cough_symptoms">Tickle in the throat, runny or stuffy nose, sneezing, feel very tired.</string>
+    <string name="cough_cause">Most colds are caused by rhinoviruses. Your child can catch a cold through airborne droplets from or through direct contact with a sick person. Sneezing, coughing, and a runny nose are common symptoms.</string>
+    <string name="cough_salt">null</string>
+
+
+    <string name="body_illness">Skin Infection</string>
+    <string name="body_description">In most children with skin infections, a skin test (culture or swab) may be needed to determine the most-appropriate treatment. Tell your doctor if your child has a history of MRSA, staph infection, or other resistant bacteria or if he or she has been exposed to other family members or contacts with resistant bacteria.</string>
+    <string name="body_medicine">Cetzine syrup,</string>
+    <string name="body_symptoms">Red, itchy skin, Rashes, Inflammation and swelling, Fever</string>
+    <string name="body_cause">skin infections are caused by bacteria, such as staph and strep, viruses, fungi, or parasites.</string>
+    <string name="body_salt">null</string>
+
+
+    <string name="pneumonia_illness">Ear Pain</string>
+    <string name="pneumonia_description">Ear pain is common in children and can have many causes—including ear infection (otitis media), swimmer\'s ear (infection of the skin in the ear canal), pressure from a cold or sinus infection, teeth pain radiating up the jaw to the ear, and others. . To tell the difference, your pediatrician will need to examine your child\'s ear. In fact, an in-office exam is still the best way for your pediatrician to make an accurate diagnosis. If your child\'s ear pain is accompanied by a high fever, involves both ears, or if your child has other signs of illness, your pediatrician may decide that an antibiotic is the best treatment.</string>
+    <string name="pneumonia_medicine">Otodac-Cl,Otodac-DX, Otogesic.</string>
+    <string name="pneumonia_symptoms">Pain in ear.</string>
+    <string name="pneumonia_cause">Ear infection, Swimmer\'s ear, Eustachian tube dysfunction.</string>
+    <string name="pneumonia_salt">null</string>
+
+
+    <string name="sore_illness">Sore Throat</string>
+    <string name="sore_description">Sore throats are common in children and can be painful. However, a sore throat that is caused by a virus does not need antibiotics. In those cases, no specific medicine is required, and your child should get better in seven to ten days. In other cases, a sore throat could be caused by an infection called streptococcal (strep throat).</string>
+    <string name="sore_medicine">Vicks , sip warm liquids, Wokadine Sore Throat Gargle.</string>
+    <string name="sore_symptoms">Pus on the tonsils, difficulty swallowing, fever, and swollen glands, headaches</string>
+    <string name="sore_cause">viral infection, Certain viruses can cause sores in the mouth or throat.</string>
+    <string name="sore_salt">null</string>
+
+    <string name="child_illness">Ear Wax</string>
+    <string name="child_description">Earwax, also known by the medical term cerumen, is a brown, orange, red, yellowish or gray waxy substance secreted in the ear canal of humans and other mammals. It protects the skin of the human ear canal, assists in cleaning and lubrication, also provides protection against bacteria, fungi, and water.</string>
+    <string name="child_medicine">Soliwax, Clearwax, Oriwax.</string>
+    <string name="child_symptoms">Decreased hearing,Dizziness, Ear pain, Ringing in the ear.</string>
+    <string name="child_cause">the most common cause of earwax blockage is at-home removal. Using cotton swabs, bobby pins, or other objects in your ear canal can also push wax deeper, creating a blockage</string>
+
+    <string name="childa_illness">Stomach ache</string>
+    <string name="childa_description">And a stomachache can take many different forms. The pain may start suddenly (called acute pain) or persist for weeks or even months (chronic pain). Your child may describe the pain as sharp or dull, and the pain may be located in the lower abdomen, upper abdomen, or on the sides of the belly</string>
+    <string name="childa_medicine">Colimex Oral Drops, Meftal Spas.</string>
+    <string name="childa_symptoms">Gas, Rubbing around the belly, Appearance Sweating, Vomiting.</string>
+    <string name="childa_cause">Indigestion,Sore Tummy,Infection like Food Poisoning.</string>
+
+    <string name="childb_illness">Toothache</string>
+    <string name="childb_description">Toothache: Pain in the tooth or gum. The most common cause of a toothache is a cavity or an injury to a tooth that exposes the pulp, which is heavily supplied by nerves.</string>
+    <string name="childb_medicine">Colgate Pain Out, ketorol dt.</string>
+    <string name="childb_symptoms">Sharp, throbbing, or constant pain, Tooth pain that only occurs when pressure is applied, Swelling, painful gums.</string>
+    <string name="childb_cause">Mouth or jaw injury, Sinus infection, Tooth decay, Losing a filling, Abscessed or infected tooth, Food or other debris wedged in your teeth.</string>
+
+
+    <string name="men_illness">Cold</string>
+    <string name="men_description">The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose. Signs and symptoms may appear less than two days after exposure to the virus. These may include coughing, sore throat, runny nose, sneezing, headache, and fever.</string>
+    <string name="men_medicine">D Cold Total Tablet , Vicks Vaporub</string>
+    <string name="men_symptoms">Runny nose, Sneezing, Fatigue, Cough.</string>
+    <string name="men_cause">Viral</string>
+    <string name="men_salt">aaa</string>
+
+
+    <string name="mena_illness">Cough</string>
+    <string name="mena_description">Definition. A cough is a forceful release of air from the lungs that can be heard. Coughing protects the respiratory system by clearing it of irritants and secretions.
+ Not to be used for children below 2 years of age without medical advice. children between 2-5yrs - ½ teaspoonful (2.5 ml).  Children between 6-12 yrs -1 teaspoonful (5ml). Over 12yrs and adults -2 teaspoonful (10ml). Dose to be taken every 4 hours. Not to exceed 12 teaspoonfuls in 24 hours.
+Consult physician in case coughing persists for more than 4 days or if you have any medical condition or pregnancy or are breast feeding or taking other medication.
+</string>
+    <string name="mena_medicine">Benadryl, benzonatate</string>
+    <string name="mena_symptoms">Cough accompanied by runny nose, sneezing, sore throat, watery eyes etc.</string>
+    <string name="mena_cause">respiratory tract infection</string>
+    <string name="mena_salt">aaa</string>
+
+    <string name="menb_illness">Body Aches</string>
+    <string name="menb_description">Body aches are a common symptom of many conditions. The flu is one of the most well-known conditions that can cause body aches. Aches can also be caused by your everyday life, especially if you stand, walk, or exercise for long periods of time.
+sting the area of the body where you\'re experiencing aches and pains. taking an over-the-counter pain reliever, applying ice to the affected area to help relieve pain and reduce inflammation.
+</string>
+    <string name="menb_medicine">Moov Pain Relief</string>
+    <string name="menb_symptoms">Body aches are a common symptom of many conditions. The flu is one of the most well-known conditions that can cause body aches. Aches can also be caused by your everyday life, especially if you stand, walk, or exercise for long periods of time.</string>
+    <string name="menb_cause">Tension, stress, overuse and minor injuries.</string>
+    <string name="menb_salt">aaa</string>
+
+
+    <string name="menc_illness">Pneumonia</string>
+    <string name="menc_description">Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Read on to learn more about pneumonia and how to treat it.</string>
+    <string name="menc_medicine">levofloxacin</string>
+    <string name="menc_symptoms">Cough, which may produce greenish, yellow or even bloody mucus.
+Fever, sweating and shaking chills. Shortness of breath. Rapid, shallow breathing.
+Loss of appetite, low energy, and fatigue, Inflammation.
+</string>
+    <string name="menc_cause">Human Parainfluenza Virus (HPIV) Infection.Mycoplasma Pneumoniae Infection. Pneumococcal Disease. Pneumocystis Pneumonia. Respiratory Syncytial Virus (RSV) Infection</string>
+    <string name="menc_salt">aaa</string>
+
+
+    <string name="mend_illness">Sore Throat</string>
+    <string name="mend_description">A sore throat is pain, scratchiness or irritation of the throat that often worsens when you swallow. The most common cause of a sore throat (pharyngitis) is a viral infection, such as a cold or the flu. A sore throat caused by a virus resolves on its own.</string>
+    <string name="mend_medicine">Sore throat/throat infection relief</string>
+    <string name="mend_symptoms">Pain or irritation in the throat that can occur with or without swallowing, often accompanies infections, such as a cold or flu.</string>
+    <string name="mend_cause">viral infection</string>
+    <string name="mend_salt">aaa</string>
+
+
+    <string name="mene_illness">Gas</string>
+    <string name="mene_description">What is gas? Gas is air in your digestive tract. Gas leaves your body through your mouth when you burp or through your anus when you pass gas. Flatulence is excess gas in your stomach or intestines that can cause bloating and flatus.</string>
+    <string name="mene_medicine">Pantocid Tablet, Ocid, Rablet</string>
+    <string name="mene_symptoms">Belching or burping, Stomach cramps, Stomach bloating or a feeling of fullness, Chest pains.</string>
+    <string name="mene_cause">Gas in your stomach is primarily caused by swallowing air when you eat or drink. Most stomach gas is released when you burp. Gas forms in your large intestine (colon) when bacteria ferment carbohydrates — fiber, some starches and some sugars — that aren\'t digested in your small intestine</string>
+    <string name="mene_salt">aaa</string>
+
+    <string name="menf_illness">Daily Weakness</string>
+    <string name="menf_description">Signs and symptoms of weakness can include trouble doing daily tasks, such as grooming or writing or problems with gait and loss of balance. Many people use the term weakness as a synonym for tiredness, weariness, lack of energy or fatigue, although this is not technically correct.</string>
+    <string name="menf_medicine">Vitamins,Minerals,Megafood Men\'s One Daily.</string>
+    <string name="menf_symptoms">Felling Tired, fellin stressed, Depression or anxiety. </string>
+    <string name="menf_cause">Lack of Sleep, Not Taking Proper nutrition,Taking Stress. </string>
+    <string name="menf_salt">aaa</string>
+
+    <string name="meng_illness">Loose Motion</string>
+    <string name="meng_description">Loose motions or Diarrhea is the condition of having three or more loose or liquid bowel movements in a day. It is a common cause of death in developing countries and the second most common reason for infant deaths worldwide. The loss of fluids during loose motion can cause dehydration and electrolyte disturbances.</string>
+    <string name="meng_medicine">Norflox tz, Oflox oz</string>
+    <string name="meng_symptoms">Loose, watery stools, Abdominal cramps, Abdominal pain, Fever.</string>
+    <string name="meng_cause"> Eating can be an indication of food poisoning, lactose intolerance, or infections, You may also have loose stool after eating if you\'re taking too much magnesium or have been drinking too much coffee.  </string>
+    <string name="meng_salt">aaa</string>
+
+
+    <string name="women_illness">Allergy</string>
+    <string name="women_description">An allergy is an immune system response to a foreign substance that\'s not typically harmful to your body. These foreign substances are called allergens. Depending on the allergen, this response may involve inflammation, sneezing, or a host of other symptoms. Your immune system normally adjusts to your environment.</string>
+    <string name="women_medicine">Cetzine, Montral, Lcz.</string>
+    <string name="women_symptoms"> sneezing; itchy, red, or watery eyes; clear nasal discharge; or your nose, throat or ears feel scratchy.</string>
+    <string name="women_cause">The most common are pollen, dust mites, mold, animal dander, insect stings, latex, and certain food and medications. You may think you know what the problem is your friend\'s cat, certain plants, those dust “bunnies” under your bed.</string>
+    <string name="women_salt">aaa</string>
+
+
+    <string name="womena_illness">Weakness</string>
+    <string name="womena_description">If you lead an active lifestyle, or you just need an energy boost, both vitamin B12 and iron can help reduce feelings of tiredness and fatigue. Or if you need to sustain your mental alertness and concentration, Ginseng can support your mental wellbeing.</string>
+    <string name="womena_medicine">Protine X, PediaSure, Ensure, Multivitamins.</string>
+    <string name="womena_symptoms">Fatigue., Shortness of breath, Dizziness, Pale or yellowish skin., Irregular heartbeats, Weight loss.</string>
+    <string name="womena_cause">•	the flu, depression or anxiety, mostly the illness. </string>
+    <string name="womena_salt">aaa</string>
+
+
+    <string name="womenb_illness">Antimicrobial</string>
+    <string name="womenb_description">An antimicrobial is an agent that kills microorganisms or stops their growth. Antimicrobial medicines can be grouped according to the microorganisms they act primarily against. For example, antibiotics are used against bacteria, and antifungals are used against fungi.</string>
+    <string name="womenb_medicine">Betadine</string>
+    <string name="womenb_symptoms">Your healthcare provider may take a sample of your infected tissue and send it to a lab. There, the type of infection can be figured out. Tests can also show which antibiotics will kill the germs.</string>
+    <string name="womenb_cause">Microbes, such as bacteria, viruses, fungi, and parasites, are living organisms that evolve over time. Their primary function is to reproduce, thrive, and spread quickly and efficiently.</string>
+    <string name="womenb_salt">aaa</string>
+
+
+    <string name="womenc_illness">Antiseptic</string>
+    <string name="womenc_description">Antiseptic  substance that inhibits the growth or action of microorganisms especially in or on living tissue clean the wound with an antiseptic also : germicide. An antiseptic is a substance that stops or slows down the growth of microorganisms. They’re frequently used in hospitals and other medical settings to reduce the risk of infection during surgery and other procedures.If you’ve ever witnessed any type of surgery, you probably saw the surgeon rubbing their hands and arms with an orange-tinted substance. This is an antiseptic.</string>
+    <string name="womenc_medicine">Dettol-sanitizer, Savlon-sanitizer.</string>
+    <string name="womenc_symptoms">A Skin Rash, A Stinging Sensation On The Skin, Hives.</string>
+    <string name="womenc_cause">Null</string>
+    <string name="womenc_salt">aaa</string>
+
+
+    <string name="womend_illness">Stomach ache</string>
+    <string name="womend_description">Other ways to describe pain in your abdomen include: Generalized pain This means that you feel it in more than half of your belly. This type of pain is more typical for a stomach virus, indigestion, or gas. It is likely to be due to gas and bloating, and is often followed by diarrhea.</string>
+    <string name="womend_medicine">Meftalspas , Buscogast </string>
+    <string name="womend_symptoms">Nausea,Vomiting,Fever,Abdominal Cramping,Gas.</string>
+    <string name="womend_cause">Indigestion, Gallstones, Pregnancy, Gas, Ulcers, Gastritis</string>
+    <string name="womend_salt">aaa</string>
+
+    <string name="womene_illness">Gas</string>
+    <string name="womene_description"> Gas is air in your digestive tract. Gas leaves your body through your mouth when you burp or through your anus when you pass gas. Flatulence is excess gas in your stomach or intestines that can cause bloating and flatus.</string>
+    <string name="womene_medicine">Pantocid Tablet, Ocid, Rablet</string>
+    <string name="womene_symptoms">Belching or burping, Stomach cramps, Stomach bloating or a feeling of fullness, Chest pains.</string>
+    <string name="womene_cause">Gas in your stomach is primarily caused by swallowing air when you eat or drink. Most stomach gas is released when you burp. Gas forms in your large intestine (colon) when bacteria ferment carbohydrates — fiber, some starches and some sugars — that aren\'t digested in your small intestine</string>
+    <string name="womene_salt">aaa</string>
+
+
+    <string name="womenf_illness">Loose Motion</string>
+    <string name="womenf_description">Loose motions or Diarrhea is the condition of having three or more loose or liquid bowel movements in a day. It is a common cause of death in developing countries and the second most common reason for infant deaths worldwide. The loss of fluids during loose motion can cause dehydration and electrolyte disturbances.</string>
+    <string name="womenf_medicine">Norflox tz, Oflox oz</string>
+    <string name="womenf_symptoms">Loose, watery stools, Abdominal cramps, Abdominal pain, Fever.</string>
+    <string name="womenf_cause">Eating can be an indication of food poisoning, lactose intolerance, or infections, You may also have loose stool after eating if you\'re taking too much magnesium or have been drinking too much coffee.</string>
+    <string name="womenf_salt">aaa</string>
+
+
+    <string name="womeng_illness">Fever</string>
+    <string name="womeng_description">Fever, also known as pyrexia and febrile response, is defined as having a temperature above the normal range due to an increase in the body\'s temperature set point. Rarely a fever may trigger a febrile seizure. This is more common in young children.</string>
+    <string name="womeng_medicine">Crocine Advance, Combiflam Tablet.</string>
+    <string name="womeng_symptoms">Fever, Sweating, Muscle aches Dehydration.</string>
+    <string name="womeng_cause">Increase in the body\'s temperature.</string>
+    <string name="womeng_salt">aaa</string>
+
+
+    <string name="password">Password</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile</string>
+    <string name="email1">Email</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="gender">GENDER:</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="other">OTHER</string>
+    <string name="history">History</string>
+    <string name="buy_medicine">Buy Medicine</string>
+    <string name="profile">Profile</string>
+    <string name="enter_date_of_birth">Enter Date Of Birth</string>
+    <string name="your_dob">Your DoB</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="log_in">LOG IN</string>
+    <string name="forget_password">Forget password ?</string>
+    <string name="log_out">Log Out</string>
+    <string name="about_us">About Us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">+</string>
+    <string name="top_diseases">Top Diseases</string>
+    <string name="choose_one_illness">CHOOSE ONE ILLNESS</string>
+
+
+    <string name="link">
+        <a href="https://www.practo.com/">https://www.practo.com/ \n\n</a>
+
+        <a href="https://www.1mg.com/">https://www.1mg.com/ \n\n</a>
+
+        <a href="https://www.netmeds.com/">https://www.netmeds.com/ \n\n</a>
+
+        <a href="https://www.smartmedics.co/">https://www.smartmedics.co/ \n\n</a>
+
+        <a href="https://brownpacket.com/">https://brownpacket.com/ \n\n</a>
+
+        <a href="https://pharmeasy.in/">https://pharmeasy.in/ \n\n</a>
+
+        <a href="https://myramed.in/">https://myramed.in/ \n\n</a>
+
+        <a href="https://www.medplusmart.com/">https://www.medplusmart.com/ \n\n</a>
+
+        <a href="http://www.mchemist.com/">http://www.mchemist.com/ \n\n</a>
+
+        <a href="https://www.onlinemedicalstore.com/">https://www.onlinemedicalstore.com/ \n\n</a>
+
+
+
+    </string>
+
+</resources>
